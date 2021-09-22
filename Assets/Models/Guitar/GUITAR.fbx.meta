@@ -1,0 +1,382 @@
+fileFormatVersion: 2
+guid: 3ccd303ec113e9041ac14e3f6833d463
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ACCES_CUERDAS
+    second: {fileID: 2100000, guid: 74d36ef9c6ed3314490522ec0975e836, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CLAVIJAS
+    second: {fileID: 2100000, guid: 65e610b61ea61654bb5362e934e88ba6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CLAVIJERO
+    second: {fileID: 2100000, guid: 097f0bcfb3b2f6c46935b256114c2d09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENVOL_CUERDAS
+    second: {fileID: 2100000, guid: 7856f3951d3a2ab46a793a59b01869e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GUITAR
+    second: {fileID: 2100000, guid: c1f108c24c72a1445ac90529dfd4f712, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JACK
+    second: {fileID: 2100000, guid: 476bf0296fff4d94283f4bd25762168f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MARC_BLACK
+    second: {fileID: 2100000, guid: 7078848582684874eba7946c4c92a4c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MASTIL
+    second: {fileID: 2100000, guid: fd9dfe18b0c06384090cf3cf5eb3285d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PUENTE
+    second: {fileID: 2100000, guid: eb82a2d23253ca8468a7549916b3fed4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SUJ_CUERDAS
+    second: {fileID: 2100000, guid: 59e8f0ffd1c936d40a630c58cf91b38a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VOLUME
+    second: {fileID: 2100000, guid: cd164c07ed4b23c4285fbd6cc6b86d8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cuerdas_metal
+    second: {fileID: 2100000, guid: ed749c1d1caa76e438e2ef15d5831789, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cuerdas_transparente
+    second: {fileID: 2100000, guid: 5233b24e51ff6c34699a86996951c492, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: design_guitar
+    second: {fileID: 2100000, guid: 85838ee260c053b47869aa4aebeafcb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pastillas
+    second: {fileID: 2100000, guid: cc3c749da66f29e4a8985ad0bdf20d01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tornillos
+    second: {fileID: 2100000, guid: c32c80da6ca15eb428edcd56d83ae02f, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GG_DefaultMaterial_BaseColor
+    second: {fileID: 2800000, guid: 53f53f4ebf2b5f54f9985951f1fab745, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GG_DefaultMaterial_Metallic
+    second: {fileID: 2800000, guid: b23279058727a3941b24acd88c6436e2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GG_DefaultMaterial_Roughness
+    second: {fileID: 2800000, guid: d221cc4387e159140a43793b57a6f58a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GG_acces_guitar_BaseColor
+    second: {fileID: 2800000, guid: ced4d88f06b12f44585c447a89cf8498, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GG_acces_guitar_Metallic
+    second: {fileID: 2800000, guid: 041d3f6946d859048871304309937331, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GG_acces_guitar_Roughness
+    second: {fileID: 2800000, guid: f2d13b3911ab4c5419429807c95b5c33, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GG_botones_guitar_BaseColor
+    second: {fileID: 2800000, guid: ef82b7b81ad581a49b52a8018e8c15d2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GG_botones_guitar_Metallic
+    second: {fileID: 2800000, guid: 883412a1e50463a45833b319d5fe52ab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GG_clavijas_BaseColor
+    second: {fileID: 2800000, guid: b45b30e9a87b0af488268637d162a686, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GG_clavijas_Metallic
+    second: {fileID: 2800000, guid: 5af96c2c503f6da4c9e535cc21b0a930, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GG_clavijas_Roughness
+    second: {fileID: 2800000, guid: b3832cacb68633b439f92b6c8d6e0467, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GG_clavijero_BaseColor
+    second: {fileID: 2800000, guid: ac816318936192948bffd1372b92b783, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GG_clavijero_Metallic
+    second: {fileID: 2800000, guid: 66aaf1a2b97e92c4ba7cf072affc505b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GG_clavijero_Roughness
+    second: {fileID: 2800000, guid: b18afa0722bb2ff469fc557bb2c2e1df, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "GG_dise\xF1o_guitar_BaseColor"
+    second: {fileID: 2800000, guid: 6f2f86a6805899c4fa4d612fc1dfc4e4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "GG_dise\xF1o_guitar_Roughness"
+    second: {fileID: 2800000, guid: 35801fef077b0314caca8033fc0ff775, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GG_envol_cuerdas_BaseColor
+    second: {fileID: 2800000, guid: a7ef8e71b0ebc6a42b7f8d60c9d42948, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GG_envol_cuerdas_Roughness
+    second: {fileID: 2800000, guid: 4c4f5955016291c47aa9bb3f3cae0a86, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GG_mastil_BaseColor
+    second: {fileID: 2800000, guid: 5273a3a064906614c911cab967cc502e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GG_mastil_Metallic
+    second: {fileID: 2800000, guid: e840e077f15b5934480e4ae00e692145, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GG_mastil_Roughness
+    second: {fileID: 2800000, guid: 500b8d18dd618ac41a34811edf7f9bc4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GG_metal-cuerdas_BaseColor
+    second: {fileID: 2800000, guid: 463e18689537da94c8586b12e91faa14, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GG_metal-cuerdas_Metallic
+    second: {fileID: 2800000, guid: aa0fd00b629bade46b1c00b38f824b08, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GG_metal-cuerdas_Roughness
+    second: {fileID: 2800000, guid: 246267bcd70421340aafb42906e6ec9c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GG_pastillas_BaseColor
+    second: {fileID: 2800000, guid: 11e1ba1297e87c34eb5ded3bd280a5fe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GG_pastillas_Roughness
+    second: {fileID: 2800000, guid: 90118c927bc5dd149b6faf2ea9f97cab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GG_tornillos_BaseColor
+    second: {fileID: 2800000, guid: 6c11c775de4151a49872714d65dc768b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GG_tornillos_Metallic
+    second: {fileID: 2800000, guid: 69a816f6f67f1bd4d8473c8f28aafc10, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GG_tornillos_Roughness
+    second: {fileID: 2800000, guid: 7b60ed5badffbf145b720e53df645757, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GG_transparente_BaseColor
+    second: {fileID: 2800000, guid: 2cfb9f17dfcb6cb498cfc452f3c7c766, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GG_transparente_Metallic
+    second: {fileID: 2800000, guid: bfcd01a4f5d02b246a125943709c9013, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GG_transparente_Roughness
+    second: {fileID: 2800000, guid: b106dd4ca1816404493defb4329f421d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GUITAR_EXample3_guitarra_BaseColor
+    second: {fileID: 2800000, guid: 6cfc12944a2a310448b1ea915f5af81d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GUITAR_EXample3_guitarra_Metallic
+    second: {fileID: 2800000, guid: 0c36f3c96ea1444489f8f0a87d8ad0bc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GUITAR_EXample3_guitarra_Roughness
+    second: {fileID: 2800000, guid: 88c353e337523554d8e32aee68f5196c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: guitar_jack1.001_BaseColor
+    second: {fileID: 2800000, guid: b50061738748dec4bb7bdd71e14020d8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: guitar_jack1.001_Metallic
+    second: {fileID: 2800000, guid: 45cdbe99ddd6f954eb8b254e7da85641, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: guitar_mod_volume.001_BaseColor
+    second: {fileID: 2800000, guid: 02c159f098f37ac4badf79d8b88a3764, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: guitar_puente.001_BaseColor
+    second: {fileID: 2800000, guid: e6285de0c9a85a140a7eb0a5262442e3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: guitar_puente.001_Metallic
+    second: {fileID: 2800000, guid: d04115ae001c8d542bd1f52cd2df6925, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.115
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.00115
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

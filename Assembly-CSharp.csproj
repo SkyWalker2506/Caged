@@ -53,13 +53,14 @@
     <UnityVersion>2021.1.21f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\Script\General\Mono\PlayerController.cs" />
     <Compile Include="Assets\Script\ChordSystem\NonMono\TransformData.cs" />
     <Compile Include="Assets\Script\ChordSystem\Mono\Limb.cs" />
     <Compile Include="Assets\Unity\Info\Scripts\Readme.cs" />
     <Compile Include="Assets\Script\ChordSystem\Scriptable\ChordData.cs" />
     <Compile Include="Assets\Script\ChordSystem\NonMono\HandData.cs" />
+    <Compile Include="Assets\Script\General\Mono\KeyListener.cs" />
     <Compile Include="Assets\Unity\ConstraintSamples\Scripts\mParent.cs" />
+    <Compile Include="Assets\Script\General\Mono\OnStart.cs" />
     <Compile Include="Assets\Script\ChordSystem\NonMono\LimbData.cs" />
     <Compile Include="Assets\Script\ChordSystem\NonMono\Hand.cs" />
     <Compile Include="Assets\Script\ChordSystem\Mono\ChordController.cs" />

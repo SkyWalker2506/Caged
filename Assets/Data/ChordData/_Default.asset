@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3d62d79a60a8d244a67bea7c47d6a92, type: 3}
+  m_Name: _Default
+  m_EditorClassIdentifier: 
+  LeftHand:
+    Base:
+      TargetData:
+        Position: {x: 0.028, y: 0.442, z: 0.073}
+        Rotation: {x: 0.21184708, y: 0.13616277, z: 0.21805932, w: -0.9428842}
+      HintData:
+        Position: {x: 0.875, y: 0.283, z: -0.29}
+        Rotation: {x: 0, y: 0, z: 0, w: 1}
+    Thumb:
+      TargetData:
+        Position: {x: 0.188, y: 0.35, z: 0.281}
+        Rotation: {x: 0, y: 0, z: 0, w: 1}
+      HintData:
+        Position: {x: 0.226, y: 0.33, z: 0.301}
+        Rotation: {x: 0, y: 0, z: 0, w: 1}
+    Index:
+      TargetData:
+        Position: {x: 0.462, y: 0.134, z: 0.129}
+        Rotation: {x: 0, y: 0, z: 0, w: 1}
+      HintData:
+        Position: {x: 0.4974, y: 0.1969, z: 0.1514}
+        Rotation: {x: 0.000000044703473, y: 0.0000000149011585, z: -0.000000011175868, w: 1}
+    Middle:
+      TargetData:
+        Position: {x: 0.4893, y: 0.0407, z: 0.1658}
+        Rotation: {x: 0, y: 0, z: 0, w: 1}
+      HintData:
+        Position: {x: 0.521, y: 0.127, z: 0.126}
+        Rotation: {x: 0, y: 0, z: 0, w: 1}
+    Ring:
+      TargetData:
+        Position: {x: 0.306, y: 0.198, z: 0.033}
+        Rotation: {x: 0, y: 0, z: 0, w: 1}
+      HintData:
+        Position: {x: 0.354, y: 0.25, z: 0.037}
+        Rotation: {x: 0, y: 0, z: 0, w: 1}
+    Pinky:
+      TargetData:
+        Position: {x: 0.3045, y: 0.2201, z: 0.0355}
+        Rotation: {x: 0, y: 0, z: 0, w: 1}
+      HintData:
+        Position: {x: 0.3846, y: 0.247, z: 0.0077}
+        Rotation: {x: 0.19883719, y: -0.38546917, z: 0.051400483, w: 0.89957505}
+  RightHand:
+    Base:
+      TargetData:
+        Position: {x: -0.038, y: -0.27, z: 0.244}
+        Rotation: {x: -0.2254665, y: 0.77187294, z: 0.38230905, w: -0.45521078}
+      HintData:
+        Position: {x: 0.34, y: 0, z: 0}
+        Rotation: {x: 0, y: 0, z: 0, w: 1}
+    Thumb:
+      TargetData:
+        Position: {x: 0, y: 0, z: 0}
+        Rotation: {x: 0, y: 0, z: 0, w: 1}
+      HintData:
+        Position: {x: 0, y: 0, z: 0}
+        Rotation: {x: 0, y: 0, z: 0, w: 1}
+    Index:
+      TargetData:
+        Position: {x: 0, y: 0, z: 0}
+        Rotation: {x: 0, y: 0, z: 0, w: 1}
+      HintData:
+        Position: {x: 0, y: 0, z: 0}
+        Rotation: {x: 0, y: 0, z: 0, w: 1}
+    Middle:
+      TargetData:
+        Position: {x: 0, y: 0, z: 0}
+        Rotation: {x: 0, y: 0, z: 0, w: 1}
+      HintData:
+        Position: {x: 0, y: 0, z: 0}
+        Rotation: {x: 0, y: 0, z: 0, w: 1}
+    Ring:
+      TargetData:
+        Position: {x: 0, y: 0, z: 0}
+        Rotation: {x: 0, y: 0, z: 0, w: 1}
+      HintData:
+        Position: {x: 0, y: 0, z: 0}
+        Rotation: {x: 0, y: 0, z: 0, w: 1}
+    Pinky:
+      TargetData:
+        Position: {x: 0, y: 0, z: 0}
+        Rotation: {x: 0, y: 0, z: 0, w: 1}
+      HintData:
+        Position: {x: 0, y: 0, z: 0}
+        Rotation: {x: 0, y: 0, z: 0, w: 1}
